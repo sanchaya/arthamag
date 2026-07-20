@@ -1574,13 +1574,12 @@ a#infos:hover {
   margin-top: -9px;
 }
 #lokayathaLogo {
-  position: absolute;
-  right: 15px;
-  top: 50%;
-  transform: translateY(-50%);
+  display: inline-block;
+  vertical-align: middle;
 }
 #lokayathaLogo img {
-  height: 36px;
+  height: 28px;
+  width: auto;
   display: block;
 }
 #jsinfos {
