@@ -2,7 +2,7 @@
 
 Digital archive of Artha (ಅರ್ಥ) — a Kannada magazine on economics published by Lokayatha.
 
-**Website:** https://artha.sanchaya.net
+**Website:** https://arthamag.sanchaya.net
 
 ## How to add a new issue
 
