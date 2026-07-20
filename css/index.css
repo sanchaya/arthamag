@@ -1573,11 +1573,15 @@ a#infos:hover {
   top: 50%;
   margin-top: -9px;
 }
-.donate-btn {
+#lokayathaLogo {
   position: absolute;
   right: 15px;
   top: 50%;
-  margin-top: -18px;
+  transform: translateY(-50%);
+}
+#lokayathaLogo img {
+  height: 36px;
+  display: block;
 }
 #jsinfos {
   padding: 10px 20px;
