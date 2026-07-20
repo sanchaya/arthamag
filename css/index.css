@@ -1497,7 +1497,8 @@ a#infos:hover {
   margin: 0 15px;
 }
 #brandtext a {
-  display: block;
+  display: inline-block;
+  vertical-align: middle;
   font: bold 22px 'Open Sans Condensed', sans-serif;
   color: #2f2e2d;
   text-decoration: none;
@@ -1505,6 +1506,16 @@ a#infos:hover {
 }
 #brandtext a:hover {
   color: #f57c00;
+}
+#brandtext #lokayathaLogo {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+#brandtext #lokayathaLogo img {
+  height: 22px;
+  width: auto;
+  display: block;
 }
 #brandtext .tagline {
   display: block;
@@ -1573,15 +1584,7 @@ a#infos:hover {
   top: 50%;
   margin-top: -9px;
 }
-#lokayathaLogo {
-  display: inline-block;
-  vertical-align: middle;
-}
-#lokayathaLogo img {
-  height: 28px;
-  width: auto;
-  display: block;
-}
+
 #jsinfos {
   padding: 10px 20px;
   background: rgba(255, 255, 255, 0.9);
