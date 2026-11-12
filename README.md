@@ -4,4 +4,4 @@ Digital archive hosted at **https://arthamag.sanchaya.net**
 
 Published by ಲೋಕಾಯತ. Items come from Internet Archive query:
 
-    
+    collection:ServantsOfKnowledge AND identifier:lokayatha.artha.*
